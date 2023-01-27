@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @RodarneSoft, in real, i'm a lone french student who codes on his free time and aims at making a good videogames... 
-- 👀 I’m interested in C++ Developpment
-- 🌱 I’m currently learning Physics in a french university (currently 2nde Bachelor)
-- 💞️ I’m looking to collaborate on nothing
+- 👋 Hi, I’m @RodarneSoft, in real, i'm a lone french student who codes on his free time and aims at making a good videogame... 
+- 👀 I’m interested in C++ Developpment...
+- 🌱 I’m currently learning Physics in a french university (currently 2nd year of Bachelor degree)
+- 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me : coming soon
-
